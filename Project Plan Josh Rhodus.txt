@@ -1,0 +1,58 @@
+Josh Rhodus
+Code Louisville
+webdev Class 1 Wednesday 2023 Class Project
+
+
+Project Plan Scope:
+To create an exceptional and passing capstone project for Code Louisville or Code Kentucky. A Project Plan may include: wireframes, project briefs, and feature lists.
+
+
+
+Project Objective: (what you expect the project to do):
+
+To create a personal resume website to show my skills to a potential employer.  The site will include HTML, CSS and Javascript and be designed to be responsive to different form factors including mobile, tablet and desktop screens.  It will also include at least 3 Javascript features like show/hiding of menus, accordion style collapsing menus and left/right swiping menus.
+
+
+
+Statement of Work: (what work needs to be done):
+
+I will create working folder which includes an index.html file, folders and files for images, css and javascript as well.  It will also contain a readme.md file.
+In addition, I will create a git hub repository to store the files so they can be viewed and worked on remotely.  The HTML index file will be organized so sections can be easily identified and updated as needed.  Same with the CSS file which will utilize many class descriptions to keep the sight uniform and organized in appearance.  It will also include @media queries for different device screen sizes.  
+
+
+
+Please choose from the list of features provided in the Project Requirements document.
+
+Feature 1: (one of the features you are integrating into your project) *
+
+2-3 media queries for different device sizes
+
+
+
+
+Feature 2: (one of the features you are integrating into your project) 
+
+A hide/show menu with CSS
+
+
+
+
+Feature 3: (one of the features you are integrating into your project) 
+
+An accordion style menu with js
+
+
+
+
+Feature 4: *optional* (one of the features you are integrating into your project) 
+
+A swiping style menu with js
+
+
+
+
+Please include a link to a Google/Microsoft Doc/Slides, GitHub link.
+
+Please copy the link to your document and paste it into the field below.
+
+git@github.com:code-louisville-josh/webdev-c1-wednesday-2023-class-project.git
